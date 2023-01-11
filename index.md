@@ -1,4 +1,4 @@
 ---
-title: bits
+title: Welcome to my blog
 ---
 
